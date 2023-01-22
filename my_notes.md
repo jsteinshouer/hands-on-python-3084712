@@ -51,3 +51,14 @@ redner json data
 ```python
 return jsonify(results)
 ```
+
+### 4.3 Searching through data
+
+Ex_Files/04_03_begin/app.py
+
+### Next Steps
+
+- Advanced Python with Joe Marini
+- Faster Python Code
+- Secure python code
+
